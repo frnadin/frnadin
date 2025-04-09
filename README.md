@@ -63,5 +63,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-fernandoGutilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandomendesgutilla/)](https://www.linkedin.com/in/fernandomendesgutilla/)
-[![Outlook Badge](https://img.shields.io/badge/-fernandogutilla@hotmail.com-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:fernandogutilla@hotmail.com)](mailto:fernandogutilla@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/frnadin/)
+[![Outlook Badge](https://img.shields.io/badge/-fernandogutilla@hotmail.com-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:fernandogutilla@hotmail.com)][![GitHub](https://img.shields.io/github/followers/frnadin?label=follow&style=social)](https://github.com/frnadin/)
