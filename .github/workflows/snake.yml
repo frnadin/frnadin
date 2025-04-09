@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todo dia à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,13 +12,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake
+      - name: Generate GitHub Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: frnadin
           outputs: dist/github-contribution-grid-snake.svg
+          color_snake: "#00FF00"
+          color_dots: "#1e1e1e,#2c2c2c,#3a3a3a,#484848,#565656"
+          background: "#000000"
 
-      - name: Push to GitHub
+      - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
