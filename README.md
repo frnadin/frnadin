@@ -59,6 +59,7 @@
 
 
 
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-fernandoGutilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandomendesgutilla/)](https://www.linkedin.com/in/fernandomendesgutilla/)
