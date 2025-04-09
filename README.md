@@ -55,7 +55,8 @@
 </table>
 
 ### 🐍 Snake com meus commits recentes:
-![snake gif](https://github.com/frnadin/frnadin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/frnadin/frnadin/blob/output/github-contribution-grid-snake.svg?raw=true&v=1)
+
 
 
 
