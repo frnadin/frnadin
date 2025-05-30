@@ -48,9 +48,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frnadin&theme=dark&show_icons=true" />
       </a>
     </td>
-    <td>
-      <img width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRzdWtyb29vN2podjR5amNjNGx6dG5hdmxsM2hqMzRhZmo4YWJ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0zTJ7VrKo9P2/giphy.gif">
-    </td>
+
   </tr>
 </table>
 
