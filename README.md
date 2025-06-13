@@ -53,6 +53,14 @@
   </tr>
 </table>
 
+```json
+
+  {
+    "author": "Albert Einstein",
+    "quote": "It has become appallingly obvious that our technology has exceeded our humanity."
+  }
+  ```
+
 ## Contato
 <p float="left">
   <a href="https://www.linkedin.com/in/fernandomendesgutilla/" title="LinkedIn">
@@ -67,4 +75,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
+
+
+
 
