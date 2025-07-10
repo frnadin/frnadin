@@ -2,7 +2,7 @@
 
 - 🛠️ Curioso por novas tecnologias e apaixonado por soluções práticas.
 - 🎓 Estudante de Desenvolvimento de Sistemas no SENAI.
-- 🌱 Aprendendo JavaScript, Node.js e React.
+- 🌱 Aprendendo Java, JavaScript, Node.js e React.
 - 🚀 Buscando sempre aprender novas tecnologias e melhorar minhas habilidades
 
 
